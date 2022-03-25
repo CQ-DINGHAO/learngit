@@ -1,2 +1,2 @@
-Git is version Control
-Git is software
+Git is a distrbuted version Control
+Git is a software
